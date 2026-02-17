@@ -1,101 +1,43 @@
-<!-- PRESS START SCREEN -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=250&section=header&text=PRESS%20START&fontColor=00FFCC&fontSize=60"/>
-</p>
+# 👨‍💻 Ayush Singh | Full-Stack Engineer & OSS Contributor
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00FFCC&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;Type+help+to+continue..."/>
-</p>
-
----
-
-# 💻 TERMINAL
-
-```bash
-help
-about
-projects
-skills
-contact
-```
-
----
-
-## 👤 about
-
-```yaml
-name: Ayush Singh
-role: Full Stack Developer
-special: Open Source Contributor
-fun_fact: Merged PR into Jenkins 😄
-```
-
----
-
-## 🚀 projects
-
-| status | name | link |
-|---|---|---|
-| 🟢 live | Vignaharta | https://vignaharta.vercel.app |
-| 🟢 live | PokeQuest | https://pokequest-beige.vercel.app |
-| 🟢 live | Sonic Weaver | https://sonic-weaver.vercel.app |
-
----
-
-## ⚡ skills
-
-```txt
-React  NextJS  TypeScript
-NodeJS PostgreSQL Docker
-Python Linux Git
-```
-
----
-
-## 🔐 open-source
-
-```diff
-+ Jenkins PR merged
-+ YC startup contributions
-+ Security audit completed
-```
-
-https://github.com/jenkins-infra/jenkins.io/pull/8831  
-https://github.com/getnao/nao/pull/170  
-
----
-
-# 📡 LIVE SYSTEM DATA
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=flamki&label=VISITORS&color=00ffcc&style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=flamki&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=flamki&theme=react-dark"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20Source-Jenkins%20Contributor-blue?style=for-the-badge&logo=jenkins" />
+  <img src="https://img.shields.io/badge/YC%20S24-Nao%20Labs%20Contributor-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20Docker-black?style=for-the-badge" />
 </p>
 
 ---
 
-# 🧪 SECRET COMMAND
+### ⚡ Proof of Work (Verified Contributions)
+*Most developers talk about projects. I ship to production.*
 
-```bash
-sudo hire Ayush
-```
+#### 🛠️ [Jenkins (CI/CD Infrastructure)](https://github.com/jenkins-infra/jenkins.io)
+- **Merged PR [#8831](https://github.com/jenkins-infra/jenkins.io/pull/8831):** Implemented security-first form validation using `hasPermission`. Reviewed/Approved by core Jenkins maintainers.
 
-```
-Access granted.
-Opening contact channels...
-```
+#### 🤖 [Nao Labs (YC S24)](https://github.com/getnao/nao)
+- **Merged PR [#170](https://github.com/getnao/nao/pull/170):** Built admin-protected system metadata routes and Docker-integrated versioning UI.
+- **Merged PR [#150](https://github.com/getnao/nao/pull/150):** Refactored core infrastructure for better reliability.
+- **Security Audit [#66](https://github.com/getnao/nao/issues/66):** Investigated and documented path traversal vulnerabilities in production infra.
 
-📧 9833Ayush@gmail.com  
-🔗 linkedin.com/in/ayush-s-singh  
-🌐 flamki-portfolio.vercel.app
+---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=120&section=footer&text=system%20ready.&fontColor=00FFCC"/>
-</p>
+### 🏗️ Featured Engineering Projects
+
+> Focus: Performance, Scalability, and Clean Code.
+
+| Project | Tech Stack | Key Achievement |
+| :--- | :--- | :--- |
+| **🏠 Vignaharta** | `Next.js` `PostgreSQL` `tRPC` | Custom CMS with role-based access control. |
+| **🔊 Sonic Weaver** | `Three.js` `Web Audio API` | 3D audio simulation using HRTF algorithms. |
+| **🎮 PokeQuest** | `React` `TanStack Query` | High-performance data fetching with 100% Type safety. |
+
+---
+
+### 🛠️ Technical Arsenal
+```json
+{
+  "frontend": ["React.js", "Next.js", "TypeScript", "TailwindCSS"],
+  "backend": ["Node.js", "tRPC", "PostgreSQL", "Express"],
+  "devops": ["Docker", "Jenkins", "Linux", "Git"],
+  "security": ["JWT", "Auth Guarding", "Vulnerability Assessment"]
+}
