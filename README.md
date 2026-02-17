@@ -1,62 +1,46 @@
-<!-- HERO ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Ayush%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:020617&height=220&section=header&text=booting%20developer%20system...&fontColor=00FFD1&fontSize=34"/>
 </p>
 
+```
+> loading kernel modules...
+> connecting to github.com/flamki
+> scanning open-source contributions...
+> initializing dashboard...
+```
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Open+Source+Contributor;Merged+PRs+into+Jenkins;Contributor+to+YC+Startup;Building+Real+Production+Software"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=600&color=00FFD1&center=true&vCenter=true&width=900&lines=Ayush+Singh;Full+Stack+Developer;Open+Source+Contributor;Merged+PRs+into+Jenkins;Contributor+to+YC+Startup"/>
 </p>
 
 ---
 
-# ✨ WHO AM I (SUPER QUICK)
-
-<table>
-<tr>
-<td width="60%">
-
-I build **production-ready web apps**, contribute to  
-**real open-source systems**, and ship full-stack products.
-
-🚀 Merged PR → **Jenkins**  
-🔥 Contributor → **Y Combinator Startup**  
-⚡ Shipping apps used in real production
-
-</td>
-<td width="40%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-</td>
-</tr>
-</table>
-
----
-
-# 🔥 SPOTLIGHT (WHY RECRUITERS STOP HERE)
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=flamki&theme=algolia&no-frame=true&no-bg=true&row=1"/>
-</p>
+# 🧊 DASHBOARD
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛠 Jenkins
-Global CI/CD platform used worldwide  
+### 👨‍💻 SYSTEM PROFILE
 
-✔ Auth security improvement  
-✔ Reviewed by core maintainers  
-✔ Merged into official docs  
+```yaml
+name: Ayush Singh
+role: Full Stack Developer
+mode: Building production software
+status: Open to remote opportunities 🌍
+```
 
 </td>
 <td width="50%">
 
-### 🚀 Nao Labs (YC S24)
-Privacy-first AI companion  
+### 🔐 SECURITY LOGS
 
-✔ Admin system backend  
-✔ Docker build metadata  
-✔ Security audit  
+```diff
++ Jenkins PR merged (official CI/CD platform)
++ Y Combinator startup contributions
++ Docker + tRPC production systems shipped
++ Security audit completed (path traversal)
+```
 
 </td>
 </tr>
@@ -64,53 +48,84 @@ Privacy-first AI companion
 
 ---
 
-# 🧠 TECH UNIVERSE
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,docker,tailwind,python,linux,git&perline=5"/>
-</p>
-
----
-
-# 🪄 PROJECT SHOWCASE (PRODUCT STYLE)
+# 🧊 OPEN SOURCE PANEL
 
 <table>
 <tr>
-<td width="33%">
-<h3 align="center">🏠 Vignaharta</h3>
-<p align="center">Real Estate Platform + Admin CMS</p>
-<p align="center">
-<a href="https://vignaharta.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
-</td>
+<td width="50%">
 
-<td width="33%">
-<h3 align="center">🎮 PokeQuest</h3>
-<p align="center">Pokémon Discovery Engine</p>
-<p align="center">
-<a href="https://pokequest-beige.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
-</td>
+### 🛠 Jenkins  
+Merged PR reviewed by core maintainers  
+https://github.com/jenkins-infra/jenkins.io/pull/8831
 
-<td width="33%">
-<h3 align="center">🎧 Sonic Weaver</h3>
-<p align="center">3D Audio Simulator</p>
-<p align="center">
-<a href="https://sonic-weaver.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
+</td>
+<td width="50%">
+
+### 🚀 Nao Labs (YC S24)  
+Admin system + Docker metadata + security audit  
+
+https://github.com/getnao/nao/pull/170  
+https://github.com/getnao/nao/pull/150  
+https://github.com/getnao/nao/issues/66  
+
 </td>
 </tr>
 </table>
 
 ---
 
-# 🏆 BADGES WALL (VISUAL FLEX)
+# 🧊 PRODUCT SHOWCASE
+
+<table>
+<tr>
+<td align="center">
+
+### 🏠 Vignaharta  
+Real Estate Platform + Admin CMS  
+<a href="https://vignaharta.vercel.app">LIVE DEMO</a>
+
+</td>
+<td align="center">
+
+### 🎮 PokeQuest  
+Pokémon Discovery Engine  
+<a href="https://pokequest-beige.vercel.app">LIVE DEMO</a>
+
+</td>
+<td align="center">
+
+### 🎧 Sonic Weaver  
+3D Audio Simulator  
+<a href="https://sonic-weaver.vercel.app">LIVE DEMO</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧊 MODULES LOADED
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,docker,python,tailwind,git,linux"/>
+</p>
+
+---
+
+# 🧊 SYSTEM METRICS
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=flamki&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=flamki&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=flamki&theme=react-dark"/>
+</p>
+
+---
+
+# 🧊 ACHIEVEMENTS
 
 <p align="center">
 <a href="https://holopin.io/@flamki">
@@ -120,33 +135,14 @@ Privacy-first AI companion
 
 ---
 
-# 📊 GITHUB METRICS (LIVE)
+# 📡 CONNECT TERMINAL
+
+```
+> mail  : 9833Ayush@gmail.com
+> link  : linkedin.com/in/ayush-s-singh
+> site  : flamki-portfolio.vercel.app
+```
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=flamki&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flamki&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=flamki&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 💼 LET'S BUILD SOMETHING
-
-<p align="center">
-<a href="mailto:9833Ayush@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/ayush-s-singh/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://flamki-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:000000&height=120&section=footer&text=system%20online.&fontColor=00FFD1"/>
 </p>
