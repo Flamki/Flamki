@@ -1,73 +1,153 @@
-<div align="center">
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ayush%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120§ion=header&text=Ayush%20Singh&fontSize=40&fontColor=e6edf3&fontAlignY=65&desc=Full%20Stack%20Developer%20%C2%B7%20Open%20Source%20Contributor&descAlignY=85&descColor=8b949e" width="100%">
+<p align="center">
+  <b>Full Stack Developer • Open Source Contributor</b><br/>
+  <i>Merged PRs into Jenkins & Y Combinator Startup</i>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-flamki--portfolio.vercel.app-0d1117?style=for-the-badge&labelColor=161b22)](https://flamki-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-s-singh/)
-[![Email](https://img.shields.io/badge/Email-9833Ayush@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9833Ayush@gmail.com)
-
-</div>
-
----
-
-## ⚡ Merged PRs — Real Production Codebases
-
-| | Project | What I built | PR |
-|--|--------|-------------|-----|
-| 🔧 | **Jenkins** `jenkins-infra/jenkins.io` | `hasPermission + FormValidation.ok()` docs — prevents auth bypasses. Reviewed by 4 core maintainers | [#8831 ✅](https://github.com/jenkins-infra/jenkins.io/pull/8831) |
-| 🚀 | **Nao Labs** `YC S24 · 500+⭐` | Admin-protected `system.version` tRPC route + Docker build-args wiring commit SHA into production UI | [#170 ✅](https://github.com/getnao/nao/pull/170) |
-| 🔩 | **Nao Labs** `YC S24` | Core infrastructure contribution | [#150 ✅](https://github.com/getnao/nao/pull/150) |
-| 🔒 | **Nao Labs** `YC S24 · Security` | Path traversal audit — confirmed mitigation, documented findings | [#66](https://github.com/getnao/nao/issues/66) |
-
----
-
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://flamki-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-s-singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:9833Ayush@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Live Projects
+# 🧠 THE 5-SECOND PITCH
 
-| Project | Stack | |
-|--------|-------|--|
-| 🏠 **Vignaharta** — Real estate platform + Admin CMS | Next.js · PostgreSQL · Node.js | [↗ Live](https://vignaharta.vercel.app/) |
-| 🎮 **PokeQuest** — Pokémon discovery engine | React.js · PokeAPI · REST | [↗ Live](https://pokequest-beige.vercel.app/) |
-| 🔊 **Sonic Weaver** — 3D audio HRTF simulator | Next.js · Web Audio API | [↗ Live](https://sonic-weaver.vercel.app/) |
+I build **production web apps**, contribute to **real open-source systems**, and ship **full-stack products end-to-end**.
 
----
-
-## 📊 Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=flamki&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flamki&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-[![Holopin](https://holopin.me/flamki)](https://holopin.io/@flamki)
-
-</div>
+✨ Merged PR into **Jenkins** (global CI/CD platform)  
+🚀 Contributor to **Nao Labs (Y Combinator S24)**  
+⚡ Shipping full-stack apps used in production
 
 ---
 
-<div align="center">
+# 🔥 OPEN SOURCE (REAL MERGED PRs)
 
-🎓 B.Tech IT · Data Science · DY Patil University · 2026
+<table>
+<tr>
+<td width="50%">
 
-🌍 **Open to remote roles internationally** — Frontend · Full Stack · React · Software Engineer
+### 🛠 Jenkins (Official CI/CD Platform)
 
-📬 [9833Ayush@gmail.com](mailto:9833Ayush@gmail.com)
+Merged PR into **jenkins.io documentation**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80§ion=footer" width="100%">
+• Prevented auth bypass risk  
+• Reviewed by core maintainers  
+• Collaborated through review cycles  
 
-</div>
+🔗 https://github.com/jenkins-infra/jenkins.io/pull/8831
+
+</td>
+
+<td width="50%">
+
+### 🚀 Nao Labs (YC S24)
+
+Built admin metadata system:
+
+• tRPC protected API routes  
+• Docker build metadata integration  
+• Security audit (path traversal)
+
+🔗 https://github.com/getnao/nao/pull/170  
+🔗 https://github.com/getnao/nao/pull/150  
+🔗 https://github.com/getnao/nao/issues/66  
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧰 TECH STACK
+
+<p align="center">
+
+Frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+
+Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,python,flask" />
+
+Tools  
+<img src="https://skillicons.dev/icons?i=git,github,linux,vercel" />
+
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="33%">
+<h3>🏠 Vignaharta</h3>
+Full-stack real estate platform + Admin CMS  
+Next.js • Node • PostgreSQL  
+<br/><br/>
+<a href="https://vignaharta.vercel.app/">Live Demo →</a>
+</td>
+
+<td width="33%">
+<h3>🎮 PokeQuest</h3>
+Pokémon discovery engine with real-time data  
+React • API Integration  
+<br/><br/>
+<a href="https://pokequest-beige.vercel.app/">Live Demo →</a>
+</td>
+
+<td width="33%">
+<h3>🎧 Sonic Weaver</h3>
+3D audio simulator using HRTF  
+Next.js • Web Audio API  
+<br/><br/>
+<a href="https://sonic-weaver.vercel.app/">Live Demo →</a>
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<p align="center">
+  <a href="https://holopin.io/@flamki">
+    <img src="https://holopin.me/flamki" />
+  </a>
+</p>
+
+• HackerRank Software Engineer Certification  
+• IBM AI for Everyone (edX)  
+• Hacktoberfest Open Source Contributor  
+• Top 3 Software Competition (DY Patil)
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flamki&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamki&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+🎓 B.Tech IT (Data Science) — 2026 <br/>
+🌍 Open to Remote Roles Worldwide
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+</p>
