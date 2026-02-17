@@ -1,122 +1,78 @@
+<!-- PRESS START SCREEN -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:020617&height=220&section=header&text=booting%20developer%20system...&fontColor=00FFD1&fontSize=34"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=250&section=header&text=PRESS%20START&fontColor=00FFCC&fontSize=60"/>
 </p>
 
-```
-> loading kernel modules...
-> connecting to github.com/flamki
-> scanning open-source contributions...
-> initializing dashboard...
-```
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=600&color=00FFD1&center=true&vCenter=true&width=900&lines=Ayush+Singh;Full+Stack+Developer;Open+Source+Contributor;Merged+PRs+into+Jenkins;Contributor+to+YC+Startup"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00FFCC&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;Type+help+to+continue..."/>
 </p>
 
 ---
 
-# 🧊 DASHBOARD
+# 💻 TERMINAL
 
-<table>
-<tr>
-<td width="50%">
+```bash
+help
+about
+projects
+skills
+contact
+```
 
-### 👨‍💻 SYSTEM PROFILE
+---
+
+## 👤 about
 
 ```yaml
 name: Ayush Singh
 role: Full Stack Developer
-mode: Building production software
-status: Open to remote opportunities 🌍
+special: Open Source Contributor
+fun_fact: Merged PR into Jenkins 😄
 ```
 
-</td>
-<td width="50%">
+---
 
-### 🔐 SECURITY LOGS
+## 🚀 projects
+
+| status | name | link |
+|---|---|---|
+| 🟢 live | Vignaharta | https://vignaharta.vercel.app |
+| 🟢 live | PokeQuest | https://pokequest-beige.vercel.app |
+| 🟢 live | Sonic Weaver | https://sonic-weaver.vercel.app |
+
+---
+
+## ⚡ skills
+
+```txt
+React  NextJS  TypeScript
+NodeJS PostgreSQL Docker
+Python Linux Git
+```
+
+---
+
+## 🔐 open-source
 
 ```diff
-+ Jenkins PR merged (official CI/CD platform)
-+ Y Combinator startup contributions
-+ Docker + tRPC production systems shipped
-+ Security audit completed (path traversal)
++ Jenkins PR merged
++ YC startup contributions
++ Security audit completed
 ```
 
-</td>
-</tr>
-</table>
-
----
-
-# 🧊 OPEN SOURCE PANEL
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛠 Jenkins  
-Merged PR reviewed by core maintainers  
-https://github.com/jenkins-infra/jenkins.io/pull/8831
-
-</td>
-<td width="50%">
-
-### 🚀 Nao Labs (YC S24)  
-Admin system + Docker metadata + security audit  
-
+https://github.com/jenkins-infra/jenkins.io/pull/8831  
 https://github.com/getnao/nao/pull/170  
-https://github.com/getnao/nao/pull/150  
-https://github.com/getnao/nao/issues/66  
-
-</td>
-</tr>
-</table>
 
 ---
 
-# 🧊 PRODUCT SHOWCASE
-
-<table>
-<tr>
-<td align="center">
-
-### 🏠 Vignaharta  
-Real Estate Platform + Admin CMS  
-<a href="https://vignaharta.vercel.app">LIVE DEMO</a>
-
-</td>
-<td align="center">
-
-### 🎮 PokeQuest  
-Pokémon Discovery Engine  
-<a href="https://pokequest-beige.vercel.app">LIVE DEMO</a>
-
-</td>
-<td align="center">
-
-### 🎧 Sonic Weaver  
-3D Audio Simulator  
-<a href="https://sonic-weaver.vercel.app">LIVE DEMO</a>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧊 MODULES LOADED
+# 📡 LIVE SYSTEM DATA
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,docker,python,tailwind,git,linux"/>
+<img src="https://komarev.com/ghpvc/?username=flamki&label=VISITORS&color=00ffcc&style=for-the-badge"/>
 </p>
-
----
-
-# 🧊 SYSTEM METRICS
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=flamki&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flamki&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -125,24 +81,21 @@ Pokémon Discovery Engine
 
 ---
 
-# 🧊 ACHIEVEMENTS
+# 🧪 SECRET COMMAND
 
-<p align="center">
-<a href="https://holopin.io/@flamki">
-<img src="https://holopin.me/flamki"/>
-</a>
-</p>
-
----
-
-# 📡 CONNECT TERMINAL
-
-```
-> mail  : 9833Ayush@gmail.com
-> link  : linkedin.com/in/ayush-s-singh
-> site  : flamki-portfolio.vercel.app
+```bash
+sudo hire Ayush
 ```
 
+```
+Access granted.
+Opening contact channels...
+```
+
+📧 9833Ayush@gmail.com  
+🔗 linkedin.com/in/ayush-s-singh  
+🌐 flamki-portfolio.vercel.app
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:000000&height=120&section=footer&text=system%20online.&fontColor=00FFD1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=120&section=footer&text=system%20ready.&fontColor=00FFCC"/>
 </p>
