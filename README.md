@@ -129,12 +129,12 @@ Privacy-first AI companion
 # 📊 GITHUB METRICS (LIVE)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=flamki&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flamki&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Flamki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Flamki&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=flamki&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Flamki&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
