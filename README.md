@@ -7,6 +7,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Open+Source+Contributor;Merged+PRs+into+Jenkins;Contributor+to+YC+Startup;Building+Real+Production+Software"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/sponsors/Flamki">
+    <img src="https://img.shields.io/badge/Sponsor%20Flamki-%E2%9D%A4%EF%B8%8F-pink?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Flamki"/>
+  </a>
+</p>
+
 ---
 
 # ✨ WHO AM I (SUPER QUICK)
