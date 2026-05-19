@@ -38,40 +38,33 @@ I build production-ready web products, contribute to open source, and ship pract
 
 ## Featured Projects
 
+Old projects down, new projects up.
+
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center">Redact AI</h3>
-      <p align="center">PII detection and redaction platform powered by Presidio.</p>
+      <h3 align="center">BrandPilot</h3>
+      <p align="center">Brand-focused web experience and product landing platform.</p>
       <p align="center">
-        <a href="https://github.com/Flamki/redact-ai">
-          <img src="https://img.shields.io/badge/Code-Repository-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://redact-ai-theta.vercel.app">
+        <a href="http://brandpilot-web-878182908092-us-east-1.s3-website-us-east-1.amazonaws.com">
           <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel"/>
         </a>
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">Splitbite MCP Demo</h3>
-      <p align="center">Full-stack demo for practical MCP workflows and delivery UX.</p>
+      <h3 align="center">PokeQuest</h3>
+      <p align="center">Pokemon discovery app with clean UI and fast browsing flow.</p>
       <p align="center">
-        <a href="https://github.com/Flamki/splitbite-swiggy-mcp-demo">
-          <img src="https://img.shields.io/badge/Code-Repository-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://splitbite-swiggy-mcp-demo.vercel.app">
+        <a href="https://pokequest-beige.vercel.app/">
           <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel"/>
         </a>
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">Stellarmind</h3>
-      <p align="center">Agent marketplace with Stellar micropayment flow.</p>
+      <h3 align="center">Sonic Weaver</h3>
+      <p align="center">3D audio simulation project focused on interactive experience.</p>
       <p align="center">
-        <a href="https://github.com/Flamki/stellarmind">
-          <img src="https://img.shields.io/badge/Code-Repository-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://stellarmind-seven.vercel.app">
+        <a href="https://sonic-weaver.vercel.app/">
           <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel"/>
         </a>
       </p>
@@ -79,35 +72,45 @@ I build production-ready web products, contribute to open source, and ship pract
   </tr>
   <tr>
     <td width="33%">
-      <h3 align="center">Content Broadcasting System</h3>
-      <p align="center">Backend API with RBAC, JWT auth, Redis caching, and rotation logic.</p>
+      <h3 align="center">Convertify</h3>
+      <p align="center">Conversion-focused web app with practical utility workflows.</p>
       <p align="center">
-        <a href="https://github.com/Flamki/content-broadcasting-system">
-          <img src="https://img.shields.io/badge/Code-Repository-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">Flamki Vector Search</h3>
-      <p align="center">Local-first multimodal search with vector database integration.</p>
-      <p align="center">
-        <a href="https://github.com/Flamki/flamki-vector-search">
-          <img src="https://img.shields.io/badge/Code-Repository-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">Vignaharta</h3>
-      <p align="center">Real-estate platform with admin CMS and deployment-ready UX.</p>
-      <p align="center">
-        <a href="https://github.com/Flamki/vignaharta">
-          <img src="https://img.shields.io/badge/Code-Repository-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://vignaharta.vercel.app/">
+        <a href="https://convertify-dusky.vercel.app/">
           <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel"/>
         </a>
       </p>
     </td>
+    <td width="33%">
+      <h3 align="center">Mood2Anime</h3>
+      <p align="center">Creative app that transforms mood input into anime-style output.</p>
+      <p align="center">
+        <a href="https://mood2anime-iota.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Rental Car Hub</h3>
+      <p align="center">Car rental product experience with booking-centric user flow.</p>
+      <p align="center">
+        <a href="https://rental-car-hub.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3 align="center">Power Prediction</h3>
+      <p align="center">Data dashboard for power prediction and trend exploration.</p>
+      <p align="center">
+        <a href="https://powerpredction-uhoowxjpuapo7meluquuhy.streamlit.app/">
+          <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=streamlit"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
   </tr>
 </table>
 
