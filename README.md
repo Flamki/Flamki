@@ -126,15 +126,18 @@ Privacy-first AI companion
 
 ---
 
-# 📊 GITHUB METRICS (LIVE)
+# 📊 GITHUB SIGNALS (LIVE)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Flamki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Flamki&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://img.shields.io/github/followers/Flamki?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/Flamki?style=for-the-badge&logo=github&label=Total%20Stars" />
+<img src="https://img.shields.io/github/last-commit/Flamki/Flamki?style=for-the-badge&logo=git&label=Profile%20Repo%20Last%20Commit" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Flamki&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFlamki&query=%24.public_repos" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFlamki&query=%24.public_gists" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Account%20ID&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFlamki&query=%24.id" />
 </p>
 
 ---
